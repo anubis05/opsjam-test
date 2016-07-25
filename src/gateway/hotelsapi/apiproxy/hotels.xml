@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="hotels">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1453737784596</CreatedAt>
+    <CreatedBy>sarthak@apigee.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>hotels</DisplayName>
+    <LastModifiedAt>1453737784596</LastModifiedAt>
+    <LastModifiedBy>sarthak@apigee.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
